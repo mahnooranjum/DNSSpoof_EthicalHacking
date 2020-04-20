@@ -19,5 +19,5 @@ Download the repository on your linux system and use:
 ## Output
 ![program output](output.png)
 ## Result
-![program result](output1.png)
+![program result](output2.png)
 
