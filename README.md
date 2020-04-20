@@ -16,3 +16,8 @@ Download the repository on your linux system and use:
 | output2.png  | result of the spoofer | 
 | spoofDNS.py  | main program | 
 | venv  | Python environment | 
+## Output
+![program output](output.png)
+## Result
+![program result](output1.png)
+
